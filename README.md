@@ -11,4 +11,5 @@ ML model to predict house prices using Python & Scikit-learn
 Python, Pandas, Scikit-learn, Streamlit
 
 ### How to Run
+-pip install -r requrements.txt
 `streamlit run main.py`
